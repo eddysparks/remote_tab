@@ -1,0 +1,2 @@
+/home/ekko/Appz/openFrameworks/examples/android/androidVideoExample/build/intermediates/classes/debug
+/home/ekko/Appz/openFrameworks/examples/android/androidVideoExample/build/intermediates/pre-dexed/debug/classes-9d7b00e4664021c987aaba18864758b9a9f861f5.jar

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/ekko/Appz/openFrameworks/examples/android/androidVideoExample/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">androidVideoExample</string>
+    <!-- From: file:/home/ekko/Appz/openFrameworks/examples/android/androidVideoExample/build/intermediates/exploded-aar/android/ofAndroidLib/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="hello">Hello World!</string>
+    <!-- From: file:/home/ekko/Appz/openFrameworks/examples/android/androidVideoExample/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <!-- From: file:/home/ekko/Appz/openFrameworks/examples/android/androidVideoExample/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>

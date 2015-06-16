@@ -1,0 +1,6 @@
+ofxAndroid
+ofxAccelerometer
+ofxOsc
+ofxImageSequence
+ofxXmlSettings
+
